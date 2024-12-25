@@ -1,0 +1,16 @@
+/* style.css */
+#translate-everything {
+    margin: 20px 0;
+}
+
+#translate-form textarea {
+    width: 100%;
+    height: 100px;
+}
+
+#translation-result {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
